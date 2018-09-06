@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Number Plate Recognition</string>
+    <string name="mykey">APIkey</string>
+</resources>
